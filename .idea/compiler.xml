@@ -25,5 +25,8 @@
         <module name="track-time" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="track-time" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
