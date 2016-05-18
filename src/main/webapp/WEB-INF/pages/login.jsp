@@ -14,8 +14,6 @@
   <center>
     <h2>Username</h2>
     <h4>${username}</h4>
-    <h2>Password</h2>
-    <h4>${password}</h4>
   </center>
 
 </body>
